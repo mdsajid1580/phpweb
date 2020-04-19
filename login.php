@@ -5,7 +5,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-	<style> .bg{background:url('../app/image.jpg') no-repeat; width:100%; height:100vh; background-size: cover} .form-design {border:0px solid white; padding:50px 60px 10px 60px; margin-top: 120px;
+	<style> .bg{background:url("https://i.imgur.com/RMAKowu.jpg") no-repeat; width:100%; height:100vh; background-size: cover} .form-design {border:0px solid white; padding:50px 60px 10px 60px; margin-top: 120px;
 	   -webkit-box-shadow: -2px 4px 31px 11px rgba(0,0,0,.75);
        -moz-box-shadow: -2px 4px 31px 11px rgba(0,0,0,.75);
         box-shadow: -2px 4px 31px 11px rgba(5,5,5,.75);} .regis{ padding:5px; margin-left: 30px;} </style>
